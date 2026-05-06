@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+}
+
+.app {
+  padding: 30px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 18px;
+  margin-bottom: 25px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+.user-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.user-card {
+  background: white;
+  padding: 22px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  text-align: left;
+}
+
+.user-card img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+.user-card h2 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.user-card p {
+  margin: 8px 0;
+  color: #374151;
+}
