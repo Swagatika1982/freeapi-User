@@ -13,7 +13,7 @@ Display user profile images
 
 
 Show user details:
-
+<img width="1174" height="1274" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/208095d9-1af4-48a6-a8c5-f3292b3a38ab" />
 
 Name
 
@@ -112,5 +112,4 @@ Dark mode
 User profile modal
 
 
-Tailwind CSS redesign<img width="1174" height="1274" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/50e5865b-9abe-4373-9869-af7ddd90eb3f" />
-<img width="1174" height="1274" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/208095d9-1af4-48a6-a8c5-f3292b3a38ab" />
+Tailwind CSS redesign 
