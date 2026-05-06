@@ -62,8 +62,9 @@ CSS
 Project Structure
 src/│├── App.jsx├── index.css└── main.jsx
 Installation
+
 Clone the repository:
-git clone <your-repository-link>
+git clone https://github.com/Swagatika1982/freeapi-User.git
 Move into the project folder:
 cd random-users-directory
 Install dependencies:
